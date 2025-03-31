@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\0201392411024\\.nuget\\packages\\": {},
+    "C:\\Users\\vitor\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\0201392411024\\source\\repos\\projeto_loja\\projeto_loja\\projeto_loja.csproj",
+      "projectUniqueName": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Loja_Mvc\\projeto_loja\\projeto_loja.csproj",
       "projectName": "projeto_loja",
-      "projectPath": "C:\\Users\\0201392411024\\source\\repos\\projeto_loja\\projeto_loja\\projeto_loja.csproj",
-      "packagesPath": "C:\\Users\\0201392411024\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\0201392411024\\source\\repos\\projeto_loja\\projeto_loja\\obj\\",
+      "projectPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Loja_Mvc\\projeto_loja\\projeto_loja.csproj",
+      "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Loja_Mvc\\projeto_loja\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\0201392411024\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -52,7 +51,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -73,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
